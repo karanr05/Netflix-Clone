@@ -10,6 +10,6 @@
 
  #**Deployment Link**
  
-[Click here](https://fastidious-madeleine-8c86e6.netlify.app/)
+[Click here](https://netflix-clone-l6pauubiq-karanr05.vercel.app/)
 
 
