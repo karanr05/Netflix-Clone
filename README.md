@@ -10,4 +10,4 @@
  
 #**Deployment Link**
 
-(netflix-clone-one-peach.vercel.app)
+( netflix-clone-one-peach.vercel.app )
