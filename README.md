@@ -7,7 +7,9 @@
 - This website is built using :
     -  **HTML**
     -  **CSS**
+
+ #**Deployment Link**
  
-Deployment Link - (netflix-clone-one-peach.vercel.app)
+[Click here](netflix-clone-one-peach.vercel.app)
 
 
