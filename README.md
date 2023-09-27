@@ -10,6 +10,6 @@
 
  #**Deployment Link**
  
-[Click here](netflix-clone-one-peach.vercel.app)
+[Click here](https://fastidious-madeleine-8c86e6.netlify.app/)
 
 
