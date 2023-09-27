@@ -8,6 +8,6 @@
     -  **HTML**
     -  **CSS**
  
-#**Deployment Link**
+Deployment Link - (netflix-clone-one-peach.vercel.app)
 
-( netflix-clone-one-peach.vercel.app )
+
