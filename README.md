@@ -10,6 +10,6 @@
 
  #**Deployment Link**
  
-[Click here](https://netflix-clone-l6pauubiq-karanr05.vercel.app/)
+[Click here](https://netflix-clone-3tpxt8vsl-karanr05.vercel.app/)
 
 
